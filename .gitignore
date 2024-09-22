@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+googleapis
+grpc-gateway
+protoc-gen-swagger
+.DS_Store
+vendor
+.air.toml
+tmp
